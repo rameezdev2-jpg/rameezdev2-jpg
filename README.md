@@ -42,16 +42,16 @@ technical interview — not just demos.
 
 | Repository | Focus | Core Stack |
 |---|---|---|
-| [2020-machine-learning-lab](https://github.com/rameezdev2-jpg/2020-machine-learning-lab) | ML Recommendation Engine | scikit-learn, FastAPI, collaborative filtering, embeddings |
-| [2021-deep-learning-nlp](https://github.com/rameezdev2-jpg/2021-deep-learning-nlp) | Computer Vision Detection Platform (construction safety) | PyTorch/Ultralytics, OpenCV, FastAPI |
-| [2022-production-ml-platform](https://github.com/rameezdev2-jpg/2022-production-ml-platform) | Production Churn Prediction / MLOps | scikit-learn, SHAP, MLflow, Docker |
-| [2023-rag-knowledge-assistant](https://github.com/rameezdev2-jpg/2023-rag-knowledge-assistant) | Enterprise RAG Knowledge Base | embeddings, vector search, citations, access control |
-| [2025-agentic-ai-workflows](https://github.com/rameezdev2-jpg/2025-agentic-ai-workflows) | Agentic Customer Support Platform | LangGraph, RAG, tool calling, human handoff |
-| [2026-ai-product-engineering](https://github.com/rameezdev2-jpg/2026-ai-product-engineering) | MCP Multi-Agent Business Automation | MCP, tool calling, permissions, audit logs, LLM evals |
+| [2020-machine-learning-lab](https://github.com/rameezdev2-jpg/2020-machine-learning-lab) | ML Recommendation Engine | NumPy, FastAPI, collaborative filtering |
+| [2021-deep-learning-nlp](https://github.com/rameezdev2-jpg/2021-deep-learning-nlp) | Computer Vision Detection Platform (construction safety) | FastAPI, optional PPE-trained Ultralytics adapter |
+| [2022-production-ml-platform](https://github.com/rameezdev2-jpg/2022-production-ml-platform) | Production Churn Prediction / MLOps | scikit-learn, exact linear explanations, optional MLflow |
+| [2023-rag-knowledge-assistant](https://github.com/rameezdev2-jpg/2023-rag-knowledge-assistant) | Enterprise RAG Knowledge Base | hashed vector retrieval, citations, workspace access control |
+| [2025-agentic-ai-workflows](https://github.com/rameezdev2-jpg/2025-agentic-ai-workflows) | Agentic Customer Support Platform | LangGraph, policy retrieval, scoped tools, human handoff |
+| [2026-ai-product-engineering](https://github.com/rameezdev2-jpg/2026-ai-product-engineering) | MCP Multi-Agent Business Automation | MCP, permissions, approvals, audit logs, tool evaluations |
 
 Additional career-context repositories: [2018-python-backend-journey](https://github.com/rameezdev2-jpg/2018-python-backend-journey) · [2019-python-automation](https://github.com/rameezdev2-jpg/2019-python-automation) · [2024-generative-ai-platform](https://github.com/rameezdev2-jpg/2024-generative-ai-platform)
 
-*(Repositories are currently private while under active development — happy to grant access on request.)*
+*(All repositories remain private. These links form the internal featured-project index. The private profile README is not displayed as a public GitHub profile landing page.)*
 
 ## Tech Stack
 
@@ -70,9 +70,11 @@ and LLM/agent evaluation.
 
 ## Contact
 
-- LinkedIn: [Add LinkedIn URL]
-- Portfolio: [Add portfolio URL]
-- Email: [Add contact email]
+- Email: [rameez.dev2@gmail.com](mailto:rameez.dev2@gmail.com)
 
 ---
 *Profile maintained in 2026.*
+
+## Implementation Status
+
+These are runnable local demonstrations, with synthetic fixtures and explicit limitations. See [implementation checklist](IMPLEMENTATION_CHECKLIST.md) for validation and optional model/deployment requirements. Current files were built with coding-assistant support; their dates reflect the reconstruction work.
